@@ -102,10 +102,13 @@ December 2021 - April 2022
 
 
 ### [ai-auto-trader](https://github.com/rlhill888/ai-auto-trader)
+
+[Deployed Url](https://main.d2jf8zrd3yfra.amplifyapp.com/)
+
+[Github Repo](https://github.com/rlhill888/ai-auto-trader) 
+
 An autonomous forex trading system that reads live financial news, uses an LLM to judge each headline for a tradeable signal, and automatically sizes, executes, monitors, and exits trades on OANDA — then reviews its own closed trades weekly to refine its strategy playbook.
 **Tech used:** Python (AWS Lambda), Next.js, React, DynamoDB, OANDA API, OpenAI API, Ably
-[Repo](https://github.com/rlhill888/ai-auto-trader)
-
 
 
 ---
