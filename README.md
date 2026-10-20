@@ -1,10 +1,6 @@
 
 **Software Engineer building full-stack, backend, and AI-powered cloud applications with Python, React, TypeScript, and AWS.**
 
-
-Currently: Working as an Apprentice at [Flatiron School](https://flatironschool.com)
-
-
 ---
 
 
